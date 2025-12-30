@@ -15,7 +15,7 @@ No source code is included.
 ## **Downloads**
 
 Get the latest builds in the **Releases** section:
-[https://github.com/VincentG1234/floatpilot-binaries/releases/tag/v0.1.0](https://github.com/VincentG1234/floatpilot-binaries/releases/tag/v0.1.1)
+[https://github.com/VincentG1234/floatpilot-binaries/releases/tag/v0.1.0](https://github.com/VincentG1234/floatpilot-binaries/releases/tag/v0.1.2)
 
 Files include:
 
